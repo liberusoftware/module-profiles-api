@@ -3,7 +3,7 @@
   "name": "profiles-api",
   "display_name": "Profiles Api",
   "description": "Profiles api presentation adapter.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\ProfilesApi\\ProfilesApiServiceProvider",
   "requires": {
